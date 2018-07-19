@@ -1,0 +1,11 @@
+C:\Users\cemil.yalcin\source\repos\XmlSerializationOperations\XmlSerializationOperations\bin\Debug\netcoreapp2.0\XmlSerializationOperations.deps.json
+C:\Users\cemil.yalcin\source\repos\XmlSerializationOperations\XmlSerializationOperations\bin\Debug\netcoreapp2.0\XmlSerializationOperations.runtimeconfig.json
+C:\Users\cemil.yalcin\source\repos\XmlSerializationOperations\XmlSerializationOperations\bin\Debug\netcoreapp2.0\XmlSerializationOperations.runtimeconfig.dev.json
+C:\Users\cemil.yalcin\source\repos\XmlSerializationOperations\XmlSerializationOperations\bin\Debug\netcoreapp2.0\XmlSerializationOperations.dll
+C:\Users\cemil.yalcin\source\repos\XmlSerializationOperations\XmlSerializationOperations\bin\Debug\netcoreapp2.0\XmlSerializationOperations.pdb
+C:\Users\cemil.yalcin\source\repos\XmlSerializationOperations\XmlSerializationOperations\obj\Debug\netcoreapp2.0\XmlSerializationOperations.csprojAssemblyReference.cache
+C:\Users\cemil.yalcin\source\repos\XmlSerializationOperations\XmlSerializationOperations\obj\Debug\netcoreapp2.0\XmlSerializationOperations.csproj.CoreCompileInputs.cache
+C:\Users\cemil.yalcin\source\repos\XmlSerializationOperations\XmlSerializationOperations\obj\Debug\netcoreapp2.0\XmlSerializationOperations.AssemblyInfoInputs.cache
+C:\Users\cemil.yalcin\source\repos\XmlSerializationOperations\XmlSerializationOperations\obj\Debug\netcoreapp2.0\XmlSerializationOperations.AssemblyInfo.cs
+C:\Users\cemil.yalcin\source\repos\XmlSerializationOperations\XmlSerializationOperations\obj\Debug\netcoreapp2.0\XmlSerializationOperations.dll
+C:\Users\cemil.yalcin\source\repos\XmlSerializationOperations\XmlSerializationOperations\obj\Debug\netcoreapp2.0\XmlSerializationOperations.pdb
